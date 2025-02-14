@@ -26,8 +26,6 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DAAITV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/daaitv.png?raw=true" group-title="Indonesia",5.1 DAAI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservesd-1.dens.tv/s/s182/index.m3u8
-#EXTINF:-1 tvg-id="GarudaTV.id",17.3 Garuda TV
-https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
 #EXTINF:-1 tvg-id="GarudaTV.id",17.2 Garuda TV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch45)/index.m3u8
 #EXTINF:-1 tvg-id="GTV.id"tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/gtv.png?raw=true" group-title="Indonesia",30.1 GTV
@@ -73,9 +71,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
 #EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/kompastv.png?raw=true" group-title="Indonesia",11.2 Kompas TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8
-#EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/kompastv.png?raw=true" group-title="Indonesia",11.3 Kompas TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
-https://ythls-v2.onrender.com/channel/UC5BMIWZe9isJXLZZWPWvBlg.m3u8
 #EXTINF:-1 tvg-id="MagnaChannel.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/magna.png?raw=true" group-title="Indonesia",38.1 Magna Channel
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -335,7 +330,7 @@ https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/ind
 
 
 #EXTINF:-1 tvg-chno="017" tvg-id="Garuda.tv" tvg-logo="https://aksara.biz.id/wp-content/uploads/2023/09/sikopi.webp" group-title="LOCAL",17.1 Garuda TV
-https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
+https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 
 
 #EXTINF:-1 tvg-chno="018" tvg-id="MOJI.tv" tvg-logo="https://thumbor.prod.vidiocdn.com/v5PaORcp4FTzU8QX-yuZmh-qCpk=/784x441/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/206/moji-cover-7acc96.jpg" group-title="LOCAL",35.1 Moji
@@ -383,7 +378,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/ChannelNewsAsia/sa_dash_vmx/Chann
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7cafff42-3569-1a1e-d668-c36036b1c848)/manifest.mpd
 
 
-#EXTINF:-1 tvg-chno="107" tvg-id="KOMPAS TV" tvg-logo="https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F11-NEWS%2FKompas%20TV%20SD-FirstMedia-Chl-15.jpg&w=1920&q=100" group-title="News",11.4 Kompas TV
+#EXTINF:-1 tvg-chno="107" tvg-id="KOMPAS TV" tvg-logo="https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F11-NEWS%2FKompas%20TV%20SD-FirstMedia-Chl-15.jpg&w=1920&q=100" group-title="News",11.3 Kompas TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.188 Safari/537.36 CrKey/1.54.250320
 https://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8?app_type=web&userid=lite&chname=Kompas_TV
 
@@ -397,7 +392,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/IDX/sa_dash_vmx/IDX.mpd
 
 
 #EXTINF:-1 tvg-chno="109" tvg-id="CNBC" tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Fcnbc.jpg?alt=media&token=0d4dacdf-2f32-4689-b849-09681fb9a415" group-title="News",18.1 CNBC
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
 
 #EXTINF:-1 tvg-chno="110" tvg-id="Berita Satu" tvg-logo="https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F11-NEWS%2FBerita%20Satu%20SD-FirstMedia-Chl-1.webp&w=1920&q=100" group-title="News",419.1 Berita Satu
@@ -627,7 +622,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/Animax/sa_dash_vmx/Animax.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c5d5297a84f8b2de977f07286345c591:bdb773d6d25303b75a396b8040cfaf8c
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-chno="410" tvg-id="AXN.id" tvg-logo="https://www.firstmedia.com/files/logos/channels/4-ENTERTAINMENT/AXN%20HD-FirstMedia-Chl-332.jpg" group-title="Entertainment",438 AXN
+#EXTINF:-1 tvg-chno="410" tvg-id="AXN.id" tvg-logo="https://www.firstmedia.com/files/logos/channels/4-ENTERTAINMENT/AXN%20HD-FirstMedia-Chl-332.jpg" group-title="Entertainment",438.1 AXN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.188 Safari/537.36 CrKey/1.54.250320
 https://d1abp075u76pbq.cloudfront.net/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
@@ -701,3 +696,67 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 
 #EXTINF:-1 tvg-chno="603" tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2FMetro%20Globe%20Network%201025x766.jpg?alt=media&token=8bd00f36-bccb-4257-8028-c47498326a0a" group-title="Knowledge",36.1 METRO GLOBE NETWORK
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RajawaliTV.id" tvg-logo="https://i.imgur.com/dlsv1sl.png" group-title="Undefined",25.3 Rajawali TV
+https://cdn09jtedge.indihometv.com/joss/130/rtv/index.m3u8
+
+#EXTINF:-1 tvg-id="TVRIAceh.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="Undefined",2.2 TVRI Aceh
+https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8
+#EXTINF:-1 tvg-id="TVRIBali.id" tvg-logo="https://i.imgur.com/3N6NDPf.png" group-title="Undefined",2.3 TVRI Bali
+https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8
+#EXTINF:-1 tvg-id="TVRIBangkaBelitung.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="Undefined",2.4 TVRI Bangka Belitung
+https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8
+#EXTINF:-1 tvg-id="TVRIBengkulu.id" tvg-logo="https://i.imgur.com/qswy60o.png" group-title="Undefined",2.5 TVRI Bengkulu
+https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8
+#EXTINF:-1 tvg-id="TVRIDKIJakarta.id" tvg-logo="https://i.imgur.com/lSgiYnp.png" group-title="Undefined",2.6 TVRI DKI Jakarta
+https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI.m3u8
+#EXTINF:-1 tvg-id="TVRIGorontalo.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="Undefined",2.7 TVRI Gorontalo
+https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8
+#EXTINF:-1 tvg-id="TVRIJambi.id" tvg-logo="https://i.imgur.com/e0Ulmy5.png" group-title="Undefined",2.8 TVRI Jambi
+https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi.m3u8
+#EXTINF:-1 tvg-id="TVRIWestJava.id" tvg-logo="https://i.imgur.com/rrRMl08.png" group-title="Undefined",2.9 TVRI Jawa Barat
+https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
+#EXTINF:-1 tvg-id="TVRICentralJava.id" tvg-logo="https://i.imgur.com/FLrmZvc.png" group-title="Undefined",2.1 TVRI Jawa Tengah
+https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
+#EXTINF:-1 tvg-id="TVRIEastJava.id" tvg-logo="https://i.imgur.com/Vxe6tcn.png" group-title="Undefined",2.10 TVRI Jawa Timur
+https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
+#EXTINF:-1 tvg-id="TVRIWestKalimantan.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="Undefined",2.11 TVRI Kalimantan Barat
+https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8
+#EXTINF:-1 tvg-id="TVRISouthKalimantan.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="Undefined",2.12 TVRI Kalimantan Selatan
+https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel.m3u8
+#EXTINF:-1 tvg-id="TVRICentralKalimantan.id" tvg-logo="https://i.imgur.com/KQSlIQt.png" group-title="Undefined",2.13 TVRI Kalimantan Tengah
+https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8
+#EXTINF:-1 tvg-id="TVRIEastKalimantan.id" tvg-logo="https://i.imgur.com/9ND64L5.png" group-title="Undefined",2.14 TVRI Kalimantan Timur
+https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim.m3u8
+#EXTINF:-1 tvg-id="TVRILampung.id" tvg-logo="https://i.imgur.com/8102yhJ.png" group-title="Undefined",2.15 TVRI Lampung
+https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8
+#EXTINF:-1 tvg-id="TVRIMaluku.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="Undefined",2.16 TVRI Maluku
+https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon.m3u8
+#EXTINF:-1 tvg-id="TVRINasional.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="General",1.4 TVRI Nasional
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+#EXTINF:-1 tvg-id="TVRIWestNusaTenggara.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="Undefined",2.17 TVRI Nusa Tenggara Barat
+https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8
+#EXTINF:-1 tvg-id="TVRIEastNusaTenggara.id" tvg-logo="https://i.imgur.com/acFJNef.png" group-title="Undefined",2.18 TVRI Nusa Tenggara Timur
+https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8
+#EXTINF:-1 tvg-id="TVRIPapua.id" tvg-logo="https://i.imgur.com/eQ7Aqy5.png" group-title="Undefined",2.19 TVRI Papua
+https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua.m3u8
+#EXTINF:-1 tvg-id="TVRIRiau.id" tvg-logo="https://i.imgur.com/iSERkWC.png" group-title="Undefined",2.20 TVRI Riau
+https://ott-balancer.tvri.go.id/live/eds/Riau/hls/Riau.m3u8
+#EXTINF:-1 tvg-id="TVRISport.id" tvg-logo="https://i.postimg.cc/rFKcGqwx/TVRI-Sport-2022.png" group-title="Sports",4.3 TVRI Sport
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+#EXTINF:-1 tvg-id="TVRIWestSulawesi.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="Undefined",2.21 TVRI Sulawesi Barat (720p)
+https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar.m3u8
+#EXTINF:-1 tvg-id="TVRISouthSulawesi.id" tvg-logo="https://i.imgur.com/QCJnteP.png" group-title="Undefined",2.22 TVRI Sulawesi Selatan (480p)
+https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8
+#EXTINF:-1 tvg-id="TVRICentralSulawesi.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="Undefined",2.23 TVRI Sulawesi Tengah (720p)
+https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8
+#EXTINF:-1 tvg-id="TVRISoutheastSulawesi.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="Undefined",2.24 TVRI Sulawesi Tenggara (480p)
+https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra.m3u8
+#EXTINF:-1 tvg-id="TVRIWestSumatra.id" tvg-logo="https://i.imgur.com/CkZf4bq.png" group-title="Undefined",2.25 TVRI Sumatera Barat (720p)
+https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8
+#EXTINF:-1 tvg-id="TVRISouthSumatra.id" tvg-logo="https://i.imgur.com/iuUTOWz.png" group-title="Undefined",2.26 TVRI Sumatera Selatan (480p)
+https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8
+#EXTINF:-1 tvg-id="TVRIWorld.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/512px-TVRIWorld.png" group-title="Undefined",3.1 TVRI World
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+#EXTINF:-1 tvg-id="TVRIYogyakarta.id" tvg-logo="https://i.imgur.com/lcH92DJ.png" group-title="Undefined",2.27 TVRI Yogyakarta (720p)
+https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
