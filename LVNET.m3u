@@ -245,6 +245,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h214/index.m3u8
 #EXTM3U x-url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml"
 #EXTM3U x-url-tvg="https://raw.githubusercontent.com/thefirefox12537/streams/master/epg/scripts/global/indonesiapremium1.xml.json"
 #EXTM3U url-tvg="https://github.com/AqFad2811/epg/raw/main/epg.xml" m3uautoload=1 cache=500 deinterlace=1 refresh="3600"
+#EXTM3U x-url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml"
 
 
 #local (ID)
