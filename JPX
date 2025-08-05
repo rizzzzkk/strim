@@ -20,7 +20,7 @@ http://us.utako.moe/Nippon_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="JOOYDTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/2560px-Mainichi_Broadcasting_System_logo.svg.png",041 ＭＢＳ１大阪 (JNN)
 http://vn.utako.moe/mbs/index.m3u8
-#EXTINF:-1 tvg-id="JOOYDTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/2560px-Mainichi_Broadcasting_System_logo.svg.png",041 ＭＢＳ２大阪 (JNN)
+#EXTINF:-1 tvg-id="JOOYDTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/2560px-Mainichi_Broadcasting_System_logo.svg.png",042 ＭＢＳ２大阪 (JNN)
 http://us.utako.moe/mbs/index.m3u8
 
 #EXTINF:-1 tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TV_Asahi_%28Blue%29_logo.svg/2560px-TV_Asahi_%28Blue%29_logo.svg.png",051 テレビ朝日１ (ANN)
@@ -191,4 +191,5 @@ https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3
 https://us.utako.moe/pigoo/index.m3u8
 #EXTINF:-1 tvg-id="v_paradise" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v_paradise_jp.png",V Paradise (NSFW)
 https://us.utako.moe/v_paradise/index.m3u8
+
 
