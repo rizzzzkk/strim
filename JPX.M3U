@@ -1,0 +1,239 @@
+#EXTINF:-1 tvg-id="JOAKDTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/NHK_General_TV_2024.svg/2048px-NHK_General_TV_2024.svg.png",011　NHK-G
+http://vn.utako.moe/NHK_G/index.m3u8
+#EXTINF:-1 tvg-id="JOAKDTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/NHK_General_TV_2024.svg/2048px-NHK_General_TV_2024.svg.png",012 JOAK
+http://us.utako.moe/NHK_G/index.m3u8
+
+#EXTINF:-1 tvg-id="JOABDTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/NHK_Educational_TV_2024.svg/2048px-NHK_Educational_TV_2024.svg.png",021 JOAB
+http://vn.utako.moe/NHK_E/index.m3u8
+#EXTINF:-1 tvg-id="JOABDTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/NHK_Educational_TV_2024.svg/2048px-NHK_Educational_TV_2024.svg.png",022 JOAB
+http://us.utako.moe/NHK_E/index.m3u8
+
+#EXTINF:-1 tvg-id="JOUHDTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/SUNTelevisionLogo2019.svg/2560px-SUNTelevisionLogo2019.svg.png",031 JOUH
+http://vn.utako.moe/suntv/index.m3u8
+#EXTINF:-1 tvg-id="JOUHDTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/SUNTelevisionLogo2019.svg/2560px-SUNTelevisionLogo2019.svg.png",032 JOUH
+http://us.utako.moe/suntv/index.m3u8
+
+#EXTINF:-1 tvg-id="JOAXDTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",041 JOAX (NNN)
+http://vn.utako.moe/Nippon_TV/index.m3u8
+#EXTINF:-1 tvg-id="JOAXDTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",042 JOAX (NNN)
+http://us.utako.moe/Nippon_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="JOOYDTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/2560px-Mainichi_Broadcasting_System_logo.svg.png",041 JOOY (JNN)
+http://vn.utako.moe/mbs/index.m3u8
+#EXTINF:-1 tvg-id="JOOYDTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/2560px-Mainichi_Broadcasting_System_logo.svg.png",041 JOOY (JNN)
+http://us.utako.moe/mbs/index.m3u8
+
+#EXTINF:-1 tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TV_Asahi_%28Blue%29_logo.svg/2560px-TV_Asahi_%28Blue%29_logo.svg.png",051 JOEX (ANN)
+http://vn.utako.moe/TV_Asahi/index.m3u8
+#EXTINF:-1 tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TV_Asahi_%28Blue%29_logo.svg/2560px-TV_Asahi_%28Blue%29_logo.svg.png",052 JOEX (ANN)
+http://us.utako.moe/TV_Asahi/index.m3u8
+
+#EXTINF:-1 tvg-id="JOBRDTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/2560px-Kbs_logo.svg.png",051 JOBR
+http://vn.utako.moe/kbs/index.m3u8
+#EXTINF:-1 tvg-id="JOBRDTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/2560px-Kbs_logo.svg.png",052 JOBR
+http://us.utako.moe/kbs/index.m3u8
+
+#EXTINF:-1 tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png",061 JORX (JNN)
+http://vn.utako.moe/TBS/index.m3u8
+#EXTINF:-1 tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png",062 JORX (JNN)
+http://us.utako.moe/TBS/index.m3u8
+
+#EXTINF:-1 tvg-id="JOAYDTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/2560px-Asahi_Broadcasting_Corporation_Logo.svg.png",061 JOAY (ANN)
+http://vn.utako.moe/abc/index.m3u8
+#EXTINF:-1 tvg-id="JOAYDTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/2560px-Asahi_Broadcasting_Corporation_Logo.svg.png",062 JOAY (ANN)
+http://us.utako.moe/abc/index.m3u8
+
+#EXTINF:-1 tvg-id="JOTXDTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",071 JOTX (TXN)
+http://vn.utako.moe/TV_Tokyo/index.m3u8
+#EXTINF:-1 tvg-id="JOTXDTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",072 JOTX (TXN)
+http://us.utako.moe/TV_Tokyo/index.m3u8
+
+#EXTINF:-1 tvg-id="JOBHDTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tv_osaka_logo.svg/2560px-Tv_osaka_logo.svg.png",071 JOBH (TXN)
+http://vn.utako.moe/tvo/index.m3u8
+#EXTINF:-1 tvg-id="JOBHDTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tv_osaka_logo.svg/2560px-Tv_osaka_logo.svg.png",072 JOBH (TXN)
+http://us.utako.moe/tvo/index.m3u8
+
+#EXTINF:-1 tvg-id="JOCXDTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/2097px-Fuji_TV_logo.svg.png",081 JOCX (FNN)
+http://vn.utako.moe/Fuji_TV/index.m3u8
+#EXTINF:-1 tvg-id="JOCXDTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/2097px-Fuji_TV_logo.svg.png",082 JOCX (FNN)
+http://us.utako.moe/Fuji_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="JODXDTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/2560px-Ktv_logo.svg.png",081 JODX (FNN)
+http://vn.utako.moe/kansaitv/index.m3u8
+#EXTINF:-1 tvg-id="JODXDTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/2560px-Ktv_logo.svg.png",082 JODX (FNN)
+http://us.utako.moe/kansaitv/index.m3u8
+
+#EXTINF:-1 tvg-id="JOMXDTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",091 JOMX1
+http://vn.utako.moe/Tokyo_MX1/index.m3u8
+#EXTINF:-1 tvg-id="JOMXDTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",092 JOMX1
+http://us.utako.moe/Tokyo_MX1/index.m3u8
+
+#EXTINF:-1 tvg-id="JOMXDTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",093 JOMX
+https://vn.utako.moe/Tokyo_MX2/index.m3u8
+#EXTINF:-1 tvg-id="JOMXDTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",093 JOMX2
+https://us.utako.moe/Tokyo_MX2/index.m3u8
+
+#EXTINF:-1 tvg-id="ytv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Yomiuri_TV-logotype.svg/2560px-Yomiuri_TV-logotype.svg.png",101 JOIX (NNN)
+http://vn.utako.moe/ytv/index.m3u8
+#EXTINF:-1 tvg-id="ytv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Yomiuri_TV-logotype.svg/2560px-Yomiuri_TV-logotype.svg.png",102 JOIX (NNN)
+http://us.utako.moe/ytv/index.m3u8
+
+
+#EXTINF:-1 tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",BS-101 NHK BS
+https://vn.utako.moe/NHK_BS/index.m3u8
+
+#EXTINF:-1 tvg-id="bs_ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/2560px-BS4_logo.svg.png",BS-141 BS NTV
+https://vn.utako.moe/bsntv/index.m3u8
+
+#EXTINF:-1 tvg-id="bs_asahi" tvg-logo="https://www.bs-asahi.co.jp/wp-content/uploads/2021/06/oglogo.jpg",BS-151 BS Asahi
+https://vn.utako.moe/bsasahi/index.m3u8
+
+#EXTINF:-1 tvg-id="bs_tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/1920px-BS-TBS_2020.svg.png",BS-161 BS TBS
+https://vn.utako.moe/bstbs/index.m3u8
+
+#EXTINF:-1 tvg-id="bs_tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS_TV_Tokyo_%28Japanese%29_2023.svg/1920px-BS_TV_Tokyo_%28Japanese%29_2023.svg.png",BS-171 BS TV Tokyo
+https://vn.utako.moe/bstvtokyo/index.m3u8
+
+#EXTINF:-1 tvg-id="bs_fuji" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/BSFuji2008Symbol.svg/1280px-BSFuji2008Symbol.svg.png",BS-181 BS Fuji
+https://vn.utako.moe/bsfuji/index.m3u8
+
+#EXTINF:-1 tvg-id="wowow_prime" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_prime.png",BS-191 WOWOW Prime
+https://vn.utako.moe/wprime/index.m3u8
+
+#EXTINF:-1 tvg-id="wowow_live" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_live.png",BS-192 WOWOW Live
+https://vn.utako.moe/wlive/index.m3u8
+
+#EXTINF:-1 tvg-id="wowow_cinema" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_cinema.png",BS-193 WOWOW Cinema
+https://vn.utako.moe/wcinema/index.m3u8
+
+#EXTINF:-1 tvg-id="bs10_star_channel" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs-10-star-channel-jp.png",BS-201 BS 10 Star Channel
+https://vn.utako.moe/bs10_star/index.m3u8
+
+#EXTINF:-1 tvg-id="bs10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Japan_BS10_logo.svg/250px-Japan_BS10_logo.svg.png",BS-202 BS10
+https://vn.utako.moe/bs10/index.m3u8
+
+#EXTINF:-1 tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png",BS-211 BS11
+https://vn.utako.moe/BS11/index.m3u8
+
+#EXTINF:-1 tvg-id="bs12" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs-12-jp.png",BS-222 BS12
+https://vn.utako.moe/bs12/index.m3u8
+
+#EXTINF:-1 tvg-id="green_channel" tvg-logo="https://www.lyngsat.com/logo/tv/gg/green-channel-jp.svg",BS-234 Green Channel
+https://vn.utako.moe/green/index.m3u8
+
+#EXTINF:-1 tvg-id="animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png",BS-236 Animax
+https://vn.utako.moe/Animax/index.m3u8
+
+#EXTINF:-1 tvg-id="js1" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg",BS-242 JSport 1
+https://vn.utako.moe/js1/index.m3u8
+
+#EXTINF:-1 tvg-id="js2" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/70/jsports2_logo.jpg",BS-243 JSport 2
+https://vn.utako.moe/js2/index.m3u8
+
+#EXTINF:-1 tvg-id="js3" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/71/jsports3_logo.jpg",BS-244 JSport 3
+https://vn.utako.moe/js3/index.m3u8
+
+#EXTINF:-1 tvg-id="js4" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/74/jsports4_logo.jpg",BS-245 JSport 4
+https://vn.utako.moe/js4/index.m3u8
+
+#EXTINF:-1 tvg-id="nihon_eiga" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nihon_eiga_senmon.png",BS-255 Nihon Eiga Senmon
+https://vn.utako.moe/nihon_eiga/index.m3u8
+
+#EXTINF:-1 tvg-id="disney_channel" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney-channel-us.svg",BS-256 Disney Channel
+https://vn.utako.moe/disneychan/index.m3u8
+
+#EXTINF:-1 tvg-id="nhk_bsp4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png",BS4K-101 NHK BS4K
+https://vn.utako.moe/bsp4k/index.m3u8
+
+#EXTINF:-1 tvg-id="bs_tv_tokyo_4k" tvg-logo="https://www2.myjcom.jp/special/common/channel_logo/bs_tv_tokyo_4k.jpg",BS-171 BS TV Tokyo 4K
+https://vn.utako.moe/bstx4k/index.m3u8
+
+#EXTINF:-1 tvg-id="qvc" tvg-logo="https://i.imgur.com/xWSzQ34.png",CS-161 QVC
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+
+#EXTINF:-1 tvg-id="toei_channel" tvg-logo="https://www.lyngsat.com/logo/tv/tt/toei_channel.png",CS-218 Toei Channel
+https://vn.utako.moe/toei/index.m3u8
+
+#EXTINF:-1 tvg-id="neco" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-neco-jp.png",CS-223 Neco Channel
+https://vn.utako.moe/neco/index.m3u8
+
+#EXTINF:-1 tvg-id="sky_a" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-a-jp.svg",CS-250 Sky A
+https://vn.utako.moe/skya/index.m3u8
+
+#EXTINF:-1 tvg-id="gaora" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gaora-sports-jp.svg",CS-254 Gaora Sports
+https://vn.utako.moe/gaora/index.m3u8
+
+#EXTINF:-1 tvg-id="ntv_g_tasu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png",CS-257 Nittele G+
+https://vn.utako.moe/ntvgplus/index.m3u8
+
+#EXTINF:-1 tvg-id="family_gekijo" tvg-logo="https://www.lyngsat.com/logo/tv/ff/family_gekijyo_jp.png",CS-293 Family Gekijyo
+https://vn.utako.moe/familygeki/index.m3u8
+
+#EXTINF:-1 tvg-id="home_drama" tvg-logo="https://www.lyngsat.com/logo/tv/hh/home-drama-channelpng-jp.png",CS-294 Home Drama Channel
+https://vn.utako.moe/homedrama/index.m3u8
+
+#EXTINF:-1 tvg-id="mondo_tv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mondo_tv_jp.png",CS-295 Mondo TV
+https://vn.utako.moe/mondo/index.m3u8
+
+#EXTINF:-1 tvg-id="tbs_channel_1" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-1-jp.png",CS-296 TBS Channel 1
+https://vn.utako.moe/tbsch1/index.m3u8
+
+#EXTINF:-1 tvg-id="tbs_channel_2" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-2-jp.png",CS-297 TBS Channel 2
+https://vn.utako.moe/tbsch2/index.m3u8
+
+#EXTINF:-1 tvg-id="tv_asahi_channel_1" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-asahi-channel-1-jp.png",CS-298 TV Asahi Channel 1
+https://vn.utako.moe/ex_ch1/index.m3u8
+
+#EXTINF:-1 tvg-id="tv_asahi_channel_2" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-asahi-channel-2-jp.png",CS-299 TV Asahi Channel 2
+https://vn.utako.moe/ex_ch2/index.m3u8
+
+#EXTINF:-1 tvg-id="entermei_tele" tvg-logo="https://www.lyngsat.com/logo/tv/ee/entermei-telepng-jp.png",CS-301 Entermei Tele
+https://vn.utako.moe/entermei_tele/index.m3u8
+
+#EXTINF:-1 tvg-id="channel_ginga" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel_ginga.png",CS-305 Channel Ginga
+https://vn.utako.moe/gingach/index.m3u8
+
+#EXTINF:-1 tvg-id="fuji_tv_one" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_one.png",CS-307 Fuji TV ONE
+https://vn.utako.moe/fuji_one/index.m3u8
+
+#EXTINF:-1 tvg-id="fuji_tv_two" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_two.png",CS-308 Fuji TV TWO
+https://vn.utako.moe/fuji_two/index.m3u8
+
+#EXTINF:-1 tvg-id="fuji_tv_next" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_next.png",CS-309 Fuji TV NEXT
+https://vn.utako.moe/fuji_next/index.m3u8
+
+#EXTINF:-1 tvg-id="dlife" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dlife-jp.png",CS-312 Dlife
+https://vn.utako.moe/dlife/index.m3u8
+
+#EXTINF:-1 tvg-id="space_shower_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/SPACE_SHOWER_TV.jpg",CS-322 Space Shower TV
+https://vn.utako.moe/spaceshower/index.m3u8
+
+#EXTINF:-1 tvg-id="mtv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-us.svg",CS-323 MTV
+https://vn.utako.moe/mtv/index.m3u8
+
+#EXTINF:-1 tvg-id="kayo_pops" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.svg",CS-329 Kayo Pops
+https://vn.utako.moe/kayopops/index.m3u8
+
+#EXTINF:-1 tvg-id="cartoon_network" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon-network-us.svg",CS-331 Cartoon Network Japan
+https://vn.utako.moe/cartoon_network/index.m3u8
+
+#EXTINF:-1 tvg-id="at_x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png",CS-333 AT-X
+https://vn.utako.moe/AT-X/index.m3u8
+
+#EXTINF:-1 tvg-id="tabi_channel" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tabi_channel.png",CS-544 Tabi Channel
+https://vn.utako.moe/tabi/index.m3u8
+
+#EXTINF:-1 tvg-id="fighting_tv" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fighting-tv-samurai-jp.png",CS-600 Fighting TV Samurai
+https://vn.utako.moe/fighting_tv/index.m3u8
+
+#EXTINF:-1 tvg-id="sports_live_plus" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sports-live-plus-jp.png",CS-800 Sport Live Plus
+https://vn.utako.moe/sport_live_plus/index.m3u8
+
+#EXTINF:-1 tvg-id="CGNTVJapan.jp" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cgn-tv-japan-kr-jp.png",CS-XX1 CGNTV Japan
+https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP_1.m3u8
+
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nhk-world-japan-jp.svg",CS-XX2 NHK World Japan
+https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
+
+#EXTINF:-1 tvg-id="NHKWorldPremium.jp" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nhk-world-premium-jp.png",CS-XX3 NHK World Premium
+https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
