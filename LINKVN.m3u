@@ -63,7 +63,7 @@ http://210.210.155.37/uq2663/h/h238/01.m3u8
 #EXTINF:-1 tvg-id="KompasTV.id" tvg-name="Kompas TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/KOMPAS_TV_%282017%29.svg/960px-KOMPAS_TV_%282017%29.svg.png",11.1 Kompas TV
 https://atemeshield1-voe.sysln.id/live/eds/KOMPASTVHD/mpd/KOMPASTVHD.mpd
 
-#EXTINF:-1 tvg-name="107" tvg-id="KompasTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/KOMPAS_TV_%282017%29.svg/960px-KOMPAS_TV_%282017%29.svg.png", 11.2 Kompas TV
+#EXTINF:-1 tvg-name="107" tvg-id="KompasTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/KOMPAS_TV_%282017%29.svg/960px-KOMPAS_TV_%282017%29.svg.png",11.2 Kompas TV
 https://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8?app_type=web&userid=lite&chname=Kompas_TV
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -73,14 +73,14 @@ https://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8?app_type=web&userid=l
 #EXTINF:-1 tvg-id="KompasTV.id" tvg-name="Kompas TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/KOMPAS_TV_%282017%29.svg/960px-KOMPAS_TV_%282017%29.svg.png",11.3 Kompas TV 
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd
 
-#EXTINF:-1 tvg-name="107" tvg-id="KompasTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/KOMPAS_TV_%282017%29.svg/960px-KOMPAS_TV_%282017%29.svg.png", 11.4 Kompas TV
+#EXTINF:-1 tvg-name="107" tvg-id="KompasTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/KOMPAS_TV_%282017%29.svg/960px-KOMPAS_TV_%282017%29.svg.png",11.4 Kompas TV
 https://www.youtube.com/watch?v=DOOrIxw5xOw
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c1e5a6713acc4774a622d01177224094:d88b67279524d26984f9c0041442b5c6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-id="KompasTV.id" tvg-name="Kompas TV" tvg-logo="https://iili.io/JV3x6cG.png",11.5 Kompas TV f
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-name="Kompas TV" tvg-logo="https://iili.io/JV3x6cG.png",11.5 Kompas TV
 https://fta4-cdn-flr.visionplus.id/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -103,7 +103,7 @@ https://www.youtube.com/watch?v=QBpdryoH6oI
 #KODIPROP:inputstream.adaptive.license_key=91dec6fd9fd84b879aacc027bf532790:588a2214bfb91fc0150b9ac2a745cef8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-id="MDTV.id" tvg-name="MDTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/512px-MDTV_logo.svg.png", 16.4 MDTV
+#EXTINF:-1 tvg-id="MDTV.id" tvg-name="MDTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/512px-MDTV_logo.svg.png",16.4 MDTV
 https://fta1-cdn-flr.visionplus.id/out/v1/6941abe8211d4ce8bd13d9b96bdd1630/index.mpd
 
 #EXTINF:-1 tvg-chno="017" tvg-id="Garuda.tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Logo_GarudaTV_Primer_Flat_2025.svg/512px-Logo_GarudaTV_Primer_Flat_2025.svg.png",17.1 Garuda TV
@@ -179,7 +179,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 tvg-id="MetroTV.my.id" tvg-name="MetroTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/LogoMetroTVsince2010.svg/550px-LogoMetroTVsince2010.svg.png",22.3 Metro TV
 https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd
-https://fta2-cdn-flr.visionplus.id/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd
 
 #EXTINF:-1 tvg-id="Metro.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/LogoMetroTVsince2010.svg/2560px-LogoMetroTVsince2010.svg.png",22.4 METRO TV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -222,7 +221,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 tvg-id="RTV.id" tvg-name="RTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Rajawali_Televisi_abu-abu.svg/799px-Rajawali_Televisi_abu-abu.svg.png" group-title="Nasional",25.2 RTV 
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/abf3e254818c4608aab8aa109a972203/index.mpd
-https://fta3-cdn-flr.visionplus.id/out/v1/abf3e254818c4608aab8aa109a972203/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=87484c0b2a4c41b9b08249ef7817ad7f:ff4f3f232f747e5e7f616b4741fa5c32
