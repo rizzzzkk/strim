@@ -141,7 +141,7 @@ https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=16e50b43a8fe4f9d8ed63a436161a28b:aa556111c986ba164a582811fb0d8c30
 https://atemeshield1-voe.sysln.id/live/eds/Trans7HD/mpd/Trans7HD.mpd
 
-#EXTINF:-1 tvg-id="--" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_Trans7.png/960px-Logo_Trans7.png",21.3 Trans 7
+#EXTINF:-1 tvg-id="--" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_Trans7.png/960px-Logo_Trans7.png",21.3 Trans 7
 https://cdn10jtedge.indihometv.com/atm/DASH/trans7/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -191,10 +191,10 @@ https://atemeshield1-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png",23.2 SCTV
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
-#EXTINF:-1 tvg-id="--" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png",23.3 Sctv
+#EXTINF:-1 tvg-id="--" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png",23.3 Sctv
 https://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
 
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/IndosiarHD.m3u8",24.1 Indosiar
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1000px-Indosiar_2015.svg.png",24.1 Indosiar
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
@@ -203,7 +203,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 #EXTINF:-1 tvg-name="Indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1000px-Indosiar_2015.svg.png",24.2 Indosiar
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
-#EXTINF:-1 tvg-id="--" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1000px-Indosiar_2015.svg.png",24.3 Indosiar
+#EXTINF:-1 tvg-id="--" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1000px-Indosiar_2015.svg.png",24.3 Indosiar
 https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
 #EXTINF:-1 tvg-id="RajawaliTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Rajawali_Televisi_abu-abu.svg/799px-Rajawali_Televisi_abu-abu.svg.png",25.1 RTV
@@ -249,10 +249,10 @@ https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
 
-#EXTINF:-1 tvg-id="--" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/2560px-TvOne_2023.svg.png",27.4 TvOne
+#EXTINF:-1 tvg-id="--" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/2560px-TvOne_2023.svg.png",27.4 TvOne
 https://cdn10jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd
 
-#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://commons.wikimedia.org/wiki/File:Logo_RCTI%2B.png#/media/File:Logo_RCTI+.png",28.1 RCTI
+#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/2560px-RCTI_logo_2015.svg.png",28.1 RCTI
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=http://www.rctiplus.com/
 http://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
@@ -298,7 +298,7 @@ http://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
 
-#EXTINF:-1 tvg-id="--" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/INews.svg/2560px-INews.svg.png",31.3 Inews
+#EXTINF:-1 tvg-id="--" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/INews.svg/2560px-INews.svg.png",31.3 Inews
 https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
 
 #EXTINF:-1 tvg-id="NusantaraTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Logo_ntv.png",32.1 Nusantara TV
@@ -323,7 +323,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 
-#EXTINF:-1 tvg-id="--" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Moji_gradient.svg/2560px-Moji_gradient.svg.png",35.3 Moji TV
+#EXTINF:-1 tvg-id="--" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Moji_gradient.svg/2560px-Moji_gradient.svg.png",35.3 Moji TV
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
