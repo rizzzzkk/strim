@@ -182,6 +182,10 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/in
 #EXTINF:-1 tvg-id="MetroTV.my.id" tvg-name="MetroTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/LogoMetroTVsince2010.svg/550px-LogoMetroTVsince2010.svg.png",22.4 Metro TV
 https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd
 
+#EXTINF:-1 tvg-id="MetroTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/LogoMetroTVsince2010.svg/550px-LogoMetroTVsince2010.svg.png",22.5 Metro TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://www.youtube.com/watch?v=-CwtcKDaaLA
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV.IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png",23.1 SCTV
@@ -252,6 +256,10 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/in
 #EXTINF:-1 tvg-id="--" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/2560px-TvOne_2023.svg.png",27.4 TvOne
 https://cdn10jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd
 
+#EXTINF:-1 tvg-id="TvOne.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/2560px-TvOne_2023.svg.png",27.5 TVOne
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://www.youtube.com/watch?v=yNKvkPJl-tg
+
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/2560px-RCTI_logo_2015.svg.png",28.1 RCTI
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=http://www.rctiplus.com/
@@ -300,6 +308,10 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/in
 
 #EXTINF:-1 tvg-id="--" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/INews.svg/2560px-INews.svg.png",31.3 Inews
 https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
+
+#EXTINF:-1 tvg-id="iNews.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/INews.svg/2560px-INews.svg.png",31.4 INews
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://www.youtube.com/watch?v=W3dANBbsuXE
 
 #EXTINF:-1 tvg-id="NusantaraTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Logo_ntv.png",32.1 Nusantara TV
 #KODIPROP:inputstream=inputstream.adaptive
