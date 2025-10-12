@@ -263,7 +263,7 @@ https://www.youtube.com/watch?v=yNKvkPJl-tg
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/2560px-RCTI_logo_2015.svg.png",28.1 RCTI
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=http://www.rctiplus.com/
-http://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+https://liveplus.rctiplus.id/RTMP-IN.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
@@ -621,5 +621,6 @@ https://atemeshield1-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="SPOTV2.id" tvg-name="SPOTV2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/SPOTV2_%28SVG%29.svg/revision/latest?cb=20250418231709",818.2 SPOTV 2
 https://atemeshield1-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
+
 
 #EXTM3U billed-msg="LINK VISION NETWORK"
