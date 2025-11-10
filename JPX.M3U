@@ -1,8 +1,7 @@
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIiwia2lkIjpudWxsfQ.WvyLC2PDFjeniLiVr8pBVuCyMpzlUVu_2RDQm-LRYS4iWdL3KlAnOA.gz351iRmvLjSGKfE._82B1TJNiNQTOC7lwaihJx4NxzAONG_qg9x8h-TMCwr7nUweyg5Kq0MopcDzcNTYFX30a-qFm1TNNbElKnwoRh3nwN6lI94O4561Drfq-46p9wxtM8Xgc4Zn5CAiP-NcACLVC-4oE19rbLItKn5H_ZDBftQ8mb6zUtEYgU-sdo3IZjS7XviArXMibG8ZqDM0m717uF0AiwBPWMP5FcwP10Q2R79wS9cScheEk_suC9JXpjNrdzTjVYQmpTEenAGzBZC70pQO0ZQE9AhC4GUglcBXlU59H8vr5NXVeCyTf2B0j1NNaY8ZZnRFRl7Srxr__cjSEisKEz2MwmFN4mDTkFAddgph__GN8uLkXkdjqBfbtb_8hR_GGMADW7uJYdNv3QhO8W4PSDqFnVZU6j2EdcXtlLIyPd87MbT9YmEzvmmzinWv_6Z3cvfYMtwr.Ojsj0Kb8PcBIvDI_MgaY1Q
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI.IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/2560px-RCTI_logo_2015.svg.png",30.TEST GTV
+#EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/2560px-RCTI_logo_2015.svg.png",30.TEST GTV
 https://cdn10jtedge.indihometv.com/atm/mpd-vo/globaltv/manifest.mpd
+
 
 
 
