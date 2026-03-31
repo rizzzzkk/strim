@@ -344,7 +344,7 @@ https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 
 #EXTINF:-1 tvg-id="MentariTV.id" tvg-name="mentari tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",36.1 Mentari Tv
-https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
+http://103.66.62.83:8000/play/a00h/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",36.2 MENTARI TV
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
